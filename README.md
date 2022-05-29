@@ -1,5 +1,7 @@
 # Medi-Care <img src="https://pbs.twimg.com/profile_images/653586573/Logo_wc-2_400x400.png" height="30px" width="30px"/>
 
+![Banner](https://github.com/Divijkatyal0406/HackGDSC/blob/master/Readme_requirements/MediCare%20Banner.png) <br>
+
 A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Ethereum Blockchain to store and view all medical documents securely. The web application provides a secure platform for patients to connect with doctors and get there reports tested. Apart from this the web app also provides functionalities of Drug Recommendation based on disease to ease the process for patients in case doctor is not available. 
 
 ## About the D-App
