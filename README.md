@@ -1,4 +1,4 @@
-# Medi-Care <img src="https://pbs.twimg.com/profile_images/653586573/Logo_wc-2_400x400.png" height="30px" width="30px"/>
+# Medi-Care <img src="https://github.com/Divijkatyal0406/HackGDSC/blob/master/Readme_requirements/Logo1.png" height="30px" width="30px"/>
 
 ![Banner](https://github.com/Divijkatyal0406/HackGDSC/blob/master/Readme_requirements/MediCare%20Banner.png) <br>
 
@@ -44,15 +44,23 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 ## About the Ethereum Blockchain
 
-<img src="https://ethereum.org/static/c3bcc8c47890ffd2a2c329972c73d0fd/31987/ethereum-logo-portrait-black-gray.png" height="210px" width="360px"/>
+<img src="https://github.com/Divijkatyal0406/HackGDSC/blob/master/Readme_requirements/Ethereum.jpg" height="210px" width="360px"/>
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
+
+#### Why we Chose Ethereum?
+In the rapid expanding Web3 market, there are several blockchain technologies that could be used for the same cause. The reasons why Ethereum was chosen by us is because of the following reasons:
+- Data Coordination
+- Rapid Deployment
+- Private Transactions
+- Scalability and Improved Performance
 
 ## About the InterPlanetary File System(IPFS)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
 
 The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
+
 
 ## Dependencies
 <ul>
