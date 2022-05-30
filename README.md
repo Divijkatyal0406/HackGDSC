@@ -73,6 +73,8 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
   <li>Flask</li>
   <li>Ipfs</li>
   <li>Pytesseract</li>
+  <li>Natural Language Toolkit(nltk)</li>
+  <li>Text Frequency- Inverse Frequency Document(TF-IDF)</li>
 </ul>
 
 
