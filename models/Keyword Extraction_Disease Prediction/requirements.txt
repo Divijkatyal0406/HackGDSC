@@ -1,0 +1,9 @@
+streamlit
+Pillow
+docx2txt
+pdfplumber
+pytesseract 
+tesseract
+wikipedia
+opencv-python-headless
+scikit-learn
