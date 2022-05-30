@@ -80,7 +80,7 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
 
 ### Clone the repository
 ```bash
-git clone https://github.com/sherwyn11/Medi-Care.git
+git clone https://github.com/Divijkatyal0406/HackGDSC.git
 ```
 
 ### To run React development server
