@@ -106,5 +106,5 @@ python app.py
 
 ## References
 
-<a href="https://www.devteam.space/blog/how-can-blockchain-keep-medical-records-secure/">How Can Blockchain Keep Medical Records Secure?</a>
+<a href="https://www.himss.org/resources/how-blockchain-can-be-used-personal-health-record-storage-and-security">How Can Blockchain Keep Medical Records Secure?</a>
 
